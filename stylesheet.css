@@ -1,0 +1,12 @@
+/** My CSS */ 
+body {
+    /*background-color: #3498db;*/
+    background-image: url(./images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   font-family: 'PT Sans', sans-serif;
+}
+
+.navbar{
+    font-size: 18px;
+}
