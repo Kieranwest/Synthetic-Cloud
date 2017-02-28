@@ -1,13 +1,16 @@
 /** My CSS */ 
 body {
     /*background-color: #3498db;*/
+    margin-top: 50px;
     background-image: url(./images/bg.jpg);
-    background-size: cover;
     background-repeat: no-repeat;
-   font-family: 'PT Sans', sans-serif;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'PT Sans', sans-serif;
 }
 
-.navbar{
+.navbar {
     font-size: 18px;
 }
 
@@ -22,6 +25,12 @@ body {
 }
 
 .main-title {
+    font-family: 'PT Sans', sans-serif;
     text-align: center;
+    font-size: 400px;
     color: white;
+}
+
+.row {
+    margin: 0;
 }
