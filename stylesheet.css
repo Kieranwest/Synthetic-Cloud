@@ -10,3 +10,18 @@ body {
 .navbar{
     font-size: 18px;
 }
+
+.vertically-aligned {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 50%;
+    align-self: flex-start;
+    align-self: flex-end;
+}
+
+.main-title {
+    text-align: center;
+    color: white;
+}
